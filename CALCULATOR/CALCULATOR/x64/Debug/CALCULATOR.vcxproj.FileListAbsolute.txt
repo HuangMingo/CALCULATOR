@@ -1,0 +1,3 @@
+C:\Users\ThinkPad\OneDrive\Documents\MAY_TINH_BO_TUI_2\CALCULATOR\CALCULATOR\x64\Debug\CALCULATOR.vcxproj.AssemblyReference.cache
+C:\Users\ThinkPad\OneDrive\Documents\MAY_TINH_BO_TUI_2\CALCULATOR\CALCULATOR\x64\Debug\CALCULATOR.MyForm.resources
+C:\Users\ThinkPad\OneDrive\Documents\MAY_TINH_BO_TUI_2\CALCULATOR\CALCULATOR\x64\Debug\CALCULATOR.vcxproj.GenerateResource.cache
